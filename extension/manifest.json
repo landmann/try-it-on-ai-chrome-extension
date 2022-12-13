@@ -1,0 +1,12 @@
+{
+  "name": "Try it on AI",
+  "description": "An Amazon Shopper Styling Assistant",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {},
+  "action": {
+    "default_title": "Try It On AI",
+    "default_popup": "index.html"
+  },
+  "permissions": ["contextMenus", "tabs", "storage"]
+}
